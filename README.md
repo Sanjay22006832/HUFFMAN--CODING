@@ -23,12 +23,12 @@ Print the Huffman code for the string.
 
  
 ## Program:
-### Developed by: M SANJAY
+### Developed by: M Sanjay
 ### Register no: 212222240090
 
 #### Get the input String
 ``` Python
-string = 'KISHORE'
+string = 'Sanjay'
 ```
 #### Create tree nodes
 ``` Python
@@ -88,8 +88,8 @@ for (char, frequency) in freq:
 ## Output:
 
 ### Print the characters and its huffmancode
+![Screenshot 2024-11-19 090550](https://github.com/user-attachments/assets/15e87dd8-8c52-4164-9b34-6930e9d135a5)
 
-![Screenshot 2024-11-16 213640](https://github.com/user-attachments/assets/0ccca564-06ed-4677-9fd5-835da6f8c877)
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
